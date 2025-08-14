@@ -1,2 +1,4 @@
-*.json linguist-language=JSON
+# Force JSONC highlighting for all .json files
+*.json linguist-language=JSONC
 *.json text
+*.json linguist-detectable=true
