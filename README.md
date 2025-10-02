@@ -2,7 +2,6 @@
 <br>
 `Cmd + Shift + P` --> Open Settings (JSON)
 
-
 {
   "workbench.colorTheme": "Tokyo Night Storm",
   "workbench.activityBar.location": "left",
@@ -98,7 +97,8 @@
   "files.insertFinalNewline": true,
 
   "scm.diffDecorations": "none",
-  "editor.lineNumbers": "relative",
+
+  "editor.lineNumbers": "on",      // ✅ normal absolute line numbers
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
   "editor.showFoldingControls": "never",
