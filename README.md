@@ -98,7 +98,7 @@
 
   "scm.diffDecorations": "none",
 
-  "editor.lineNumbers": "on",      // ✅ normal absolute line numbers
+  "editor.lineNumbers": "on",    
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
   "editor.showFoldingControls": "never",
