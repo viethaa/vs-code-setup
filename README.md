@@ -1,4 +1,5 @@
 **Paste this into your OWN settings.json in VS Code**
+<br>
 `Cmd + Shift + P` --> Open Settings (JSON)
 
 
